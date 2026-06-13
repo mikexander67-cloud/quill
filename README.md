@@ -7,6 +7,9 @@ moment they open it.
 
 > Designed & built by **Michael Ojiemeke** with Claude Code. Next.js 16 · React 19 · Tailwind v4 · Claude API.
 
+**🔗 Live demo:** https://quill-rosy-ten.vercel.app
+**💻 Source:** https://github.com/mikexander67-cloud/quill
+
 ---
 
 ## Why this project exists

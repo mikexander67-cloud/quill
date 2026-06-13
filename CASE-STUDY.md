@@ -3,7 +3,7 @@
 **Role:** Product design & full-stack development
 **Built with:** Claude Code · Next.js 16 · React 19 · TypeScript · Tailwind v4 · Claude API
 **Type:** Demo SaaS product (built to production standard)
-**Live demo:** `<your-vercel-url>` · **Source:** `<your-github-url>`
+**Live demo:** https://quill-rosy-ten.vercel.app · **Source:** https://github.com/mikexander67-cloud/quill
 
 ---
 
